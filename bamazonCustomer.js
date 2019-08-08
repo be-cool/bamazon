@@ -44,5 +44,8 @@ function start() {
                 message: "How many would you like to purchase?"
             }
         ])
+        .then(function(answer){
+            const chooseItem;
+        })
     })
 };
